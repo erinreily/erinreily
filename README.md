@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Erin
+- 👀 I’m interested in front-end development, UX design, and creating accessible websites
+- 🌱 I’m currently learning React
+- 📫 How to reach me - erdunnahoo@gmail.com
