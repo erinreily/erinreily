@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Erin
 - 👀 I’m interested in front-end development, UX design, and creating accessible websites
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React + Meteor
 - 📫 How to reach me - erdunnahoo@gmail.com
